@@ -6,7 +6,7 @@
 
 ## Link to React frontend
 
-[React Project PR](https://github.com/Isabellanamutenda/hello-rails-react)
+[React Project PR](https://github.com/Isabellanamutenda/hello-react-front-end/pull/1)
 
 ## Built With
 
